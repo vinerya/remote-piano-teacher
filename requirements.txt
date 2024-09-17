@@ -1,0 +1,4 @@
+python-rtmidi==1.4.9
+mido==1.2.10
+rpi_ws281x==4.3.4
+asyncio==3.4.3
